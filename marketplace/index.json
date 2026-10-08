@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "spring-boot-java",
+      "type": "spec",
+      "name": "Spring Boot + MyBatis + MySQL",
+      "description": "Spring Boot + MyBatis + MySQL 全栈规范，适合国内 Java 后端项目。开箱即用，按需裁剪。",
+      "path": "marketplace/specs/spring-boot-java",
+      "tags": ["java", "spring-boot", "mybatis", "mysql", "后端"]
+    },
+    {
+      "id": "java-se",
+      "type": "spec",
+      "name": "Java SE 基础规范",
+      "description": "Java SE 基础编码规范，适合纯 Java 库、工具类项目。覆盖命名、异常、日志、单元测试。",
+      "path": "marketplace/specs/java-se",
+      "tags": ["java", "se", "library", "工具类"]
+    },
+    {
+      "id": "generic",
+      "type": "spec",
+      "name": "通用规范模板",
+      "description": "通用 Trellis Spec 模板，适用于任何语言/框架项目。作为起点，按需填充具体规范。",
+      "path": "marketplace/specs/generic",
+      "tags": ["通用", "起步模板"]
+    }
+  ]
+}
