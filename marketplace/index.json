@@ -5,9 +5,9 @@
       "id": "spring-boot-java",
       "type": "spec",
       "name": "Spring Boot + MyBatis + MySQL",
-      "description": "Spring Boot + MyBatis + MySQL 全栈规范，适合国内 Java 后端项目。开箱即用，按需裁剪。",
+      "description": "Spring Boot + MyBatis + MySQL 全栈规范。内容源自多年 Java 后端实战经验，覆盖 Java/Spring Boot/MyBatis/Git/单元测试，开箱即用。",
       "path": "marketplace/specs/spring-boot-java",
-      "tags": ["java", "spring-boot", "mybatis", "mysql", "后端"]
+      "tags": ["java", "spring-boot", "mybatis", "mysql", "后端", "实战规范"]
     },
     {
       "id": "java-se",
